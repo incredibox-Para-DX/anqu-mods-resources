@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mods": [
     {
       "id": "official_example_item",
@@ -8,7 +8,7 @@
       "author": "官方示例",
       "version": "1.0.0",
       "desc": "官方示例模组：包含 3 个物品，展示 mod.json 的标准写法。把示例物品换成你自己的，再替换图片即可。",
-      "size": 269372,
+      "size": 285433,
       "file": "mods/official_example_item/mod.zip",
       "thumb": "mods/official_example_item/thumb.png",
       "avatar": "mods/official_example_item/avatar.png",
@@ -17,7 +17,7 @@
         "mods/official_example_item/screen-2.png",
         "mods/official_example_item/screen-3.png"
       ],
-      "updatedAt": 1792957005410
+      "updatedAt": 1792958129446
     }
   ]
 }
