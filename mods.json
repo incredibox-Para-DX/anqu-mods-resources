@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "mods": [
     {
       "id": "nightmode",
@@ -32,6 +32,22 @@
         "mods/mod_mvp2b8xn/screen-1.png"
       ],
       "updatedAt": 1793007400956
+    },
+    {
+      "id": "mod_mvpizgth",
+      "name": "阴间物品合集",
+      "type": "item",
+      "author": "HeFun",
+      "version": "1.0.0",
+      "desc": "包含了全部的阴间物品，体验最爽的诈骗，最阴的格式。",
+      "size": 5317697,
+      "file": "mods/mod_mvpizgth/mod.zip",
+      "thumb": "mods/mod_mvpizgth/thumb.png",
+      "avatar": "mods/mod_mvpizgth/avatar.png",
+      "screens": [
+        "mods/mod_mvpizgth/screen-1.png"
+      ],
+      "updatedAt": 1793035404774
     }
   ]
 }
