@@ -1,4 +1,21 @@
 {
-  "version": 8,
-  "mods": []
+  "version": 9,
+  "mods": [
+    {
+      "id": "nightmode",
+      "name": "CS2:夜间模式音乐盒",
+      "type": "music",
+      "author": "HeFun",
+      "version": "1.0.0",
+      "desc": "《CS2》NIGHTMODE 系列音乐盒，原声来自 NIGHTMODE Records 与 Valve 合作曲库。",
+      "size": 54232439,
+      "file": "mods/nightmode/mod.zip",
+      "thumb": "mods/nightmode/thumb.png",
+      "avatar": "mods/nightmode/avatar.png",
+      "screens": [
+        "mods/nightmode/screen-1.png"
+      ],
+      "updatedAt": 1793004672879
+    }
+  ]
 }
