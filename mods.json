@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "mods": [
     {
       "id": "nightmode",
@@ -16,6 +16,22 @@
         "mods/nightmode/screen-1.png"
       ],
       "updatedAt": 1793006686460
+    },
+    {
+      "id": "mod_mvp2b8xn",
+      "name": "Roblox试炼音乐",
+      "type": "music",
+      "author": "香菜Caicai",
+      "version": "1.0.0",
+      "desc": "《试炼》BOSS音乐",
+      "size": 13186849,
+      "file": "mods/mod_mvp2b8xn/mod.zip",
+      "thumb": "mods/mod_mvp2b8xn/thumb.png",
+      "avatar": "mods/mod_mvp2b8xn/avatar.png",
+      "screens": [
+        "mods/mod_mvp2b8xn/screen-1.png"
+      ],
+      "updatedAt": 1793007400956
     }
   ]
 }
