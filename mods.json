@@ -1,21 +1,4 @@
 {
-  "version": 7,
-  "mods": [
-    {
-      "id": "mod_mvotislq",
-      "name": "示例物品模组",
-      "type": "item",
-      "author": "官方示例",
-      "version": "1.0.0",
-      "desc": "官方示例模组：包含 3 个物品，展示 mod.json 的标准写法。把示例物品换成你自己的，再替换图片即可。",
-      "size": 216531,
-      "file": "mods/mod_mvotislq/mod.zip",
-      "thumb": "mods/mod_mvotislq/thumb.png",
-      "avatar": "mods/mod_mvotislq/avatar.png",
-      "screens": [
-        "mods/mod_mvotislq/screen-1.png"
-      ],
-      "updatedAt": 1792992636495
-    }
-  ]
+  "version": 8,
+  "mods": []
 }
