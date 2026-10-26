@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 5,
   "mods": [
     {
       "id": "official_example_item",
@@ -18,6 +18,38 @@
         "mods/official_example_item/screen-3.png"
       ],
       "updatedAt": 1792958129446
+    },
+    {
+      "id": "official_example_background",
+      "name": "示例背景模组",
+      "type": "background",
+      "author": "官方示例",
+      "version": "1.0.0",
+      "desc": "官方示例：一张可用的背景图。替换 content/backgrounds 下的图片即可。",
+      "size": 39634,
+      "file": "mods/official_example_background/mod.zip",
+      "thumb": "mods/official_example_background/thumb.png",
+      "avatar": "mods/official_example_background/avatar.png",
+      "screens": [
+        "mods/official_example_background/screen-1.png"
+      ],
+      "updatedAt": 1792980959148
+    },
+    {
+      "id": "official_example_music",
+      "name": "示例音乐模组",
+      "type": "music",
+      "author": "官方示例",
+      "version": "1.0.0",
+      "desc": "官方示例：一首可直接播放的曲目。替换 content/music 下的音频即可。",
+      "size": 615145,
+      "file": "mods/official_example_music/mod.zip",
+      "thumb": "mods/official_example_music/thumb.png",
+      "avatar": "mods/official_example_music/avatar.png",
+      "screens": [
+        "mods/official_example_music/screen-1.png"
+      ],
+      "updatedAt": 1792980959719
     }
   ]
 }
