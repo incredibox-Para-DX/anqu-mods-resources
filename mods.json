@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "mods": [
     {
       "id": "nightmode",
@@ -80,6 +80,22 @@
         "mods/mod_mvqmsxda/screen-1.png"
       ],
       "updatedAt": 1793102284271
+    },
+    {
+      "id": "mod_mvqxxv1v",
+      "name": "未上线大金",
+      "type": "item",
+      "author": "摔炮鼠鼠",
+      "version": "1.0.0",
+      "desc": "一些在C2S1才会上线的大金，目前没有沙漠之主和生命之水的素材，所以暂不上线",
+      "size": 9705153,
+      "file": "mods/mod_mvqxxv1v/mod.zip",
+      "thumb": "mods/mod_mvqxxv1v/thumb.png",
+      "avatar": "mods/mod_mvqxxv1v/avatar.png",
+      "screens": [
+        "mods/mod_mvqxxv1v/screen-1.png"
+      ],
+      "updatedAt": 1793120990324
     }
   ]
 }
