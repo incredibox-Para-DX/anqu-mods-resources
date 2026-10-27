@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "mods": [
     {
       "id": "nightmode",
@@ -64,6 +64,22 @@
         "mods/mod_mvqbrorq/screen-1.png"
       ],
       "updatedAt": 1793083750695
+    },
+    {
+      "id": "mod_mvqmsxda",
+      "name": "稀有收藏品合集",
+      "type": "item",
+      "author": "HeFun",
+      "version": "1.0.0",
+      "desc": "包含了全部的稀有收藏品，在暗区里没摸到的来保险模拟器摸回来。",
+      "size": 5971464,
+      "file": "mods/mod_mvqmsxda/mod.zip",
+      "thumb": "mods/mod_mvqmsxda/thumb.png",
+      "avatar": "mods/mod_mvqmsxda/avatar.png",
+      "screens": [
+        "mods/mod_mvqmsxda/screen-1.png"
+      ],
+      "updatedAt": 1793102284271
     }
   ]
 }
