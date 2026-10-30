@@ -50,22 +50,6 @@
       "updatedAt": 1793035404774
     },
     {
-      "id": "mod_mvqbrorq",
-      "name": "滚木",
-      "type": "item",
-      "author": "摔炮鼠鼠",
-      "version": "1.0.0",
-      "desc": "滚木",
-      "size": 325688,
-      "file": "mods/mod_mvqbrorq/mod.zip",
-      "thumb": "mods/mod_mvqbrorq/thumb.png",
-      "avatar": "mods/mod_mvqbrorq/avatar.png",
-      "screens": [
-        "mods/mod_mvqbrorq/screen-1.png"
-      ],
-      "updatedAt": 1793083750695
-    },
-    {
       "id": "mod_mvqmsxda",
       "name": "稀有收藏品合集",
       "type": "item",
