@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "mods": [
     {
       "id": "nightmode",
@@ -82,6 +82,20 @@
         "mods/mod_mvv5hqs4/screen-3.png"
       ],
       "updatedAt": 1793375539925
+    },
+    {
+      "id": "mod_mvv5p5wt",
+      "name": "阴乐",
+      "type": "music",
+      "author": "摔炮鼠鼠",
+      "version": "1.0.0",
+      "desc": "听完感觉浑身舒畅，腰不疼腿不酸就连心脏也休息了",
+      "size": 1497082,
+      "file": "mods/mod_mvv5p5wt/mod.zip",
+      "thumb": "mods/mod_mvv5p5wt/thumb.png",
+      "avatar": "mods/mod_mvv5p5wt/avatar.png",
+      "screens": [],
+      "updatedAt": 1793375886126
     }
   ]
 }
