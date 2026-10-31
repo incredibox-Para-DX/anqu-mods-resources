@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "mods": [
     {
       "id": "nightmode",
@@ -96,6 +96,22 @@
       "avatar": "mods/mod_mvv5p5wt/avatar.png",
       "screens": [],
       "updatedAt": 1793375886126
+    },
+    {
+      "id": "mod_mvwtlo5v",
+      "name": "三角洲行动红皮典藏音乐原声",
+      "type": "music",
+      "author": "HeFun",
+      "version": "1.0.0",
+      "desc": "《三角洲行动》红皮典藏原声，收录蚀金玫瑰、凌霄戍卫、水墨云图等至臻皮肤专属主题曲。",
+      "size": 40349007,
+      "file": "mods/mod_mvwtlo5v/mod.zip",
+      "thumb": "mods/mod_mvwtlo5v/thumb.png",
+      "avatar": "mods/mod_mvwtlo5v/avatar.png",
+      "screens": [
+        "mods/mod_mvwtlo5v/screen-1.png"
+      ],
+      "updatedAt": 1793476500116
     }
   ]
 }
